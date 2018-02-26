@@ -1,1 +1,4 @@
-# slides
+- 23c3-random-analysis.pdf: 23C3 presentation about my research on the Linux PRNG
+- OpenOffice-Security.*: Vulnerabilities in OpenOffice, from 2006/2007
+- Secure Programming: Trainnig for secure system programming, includes examples and exercises used in a seminar at the University Dortmund and the Univ. of Applied science in Karlsruhe
+- Web-Security Basics: Training for secure web-prgramming.
